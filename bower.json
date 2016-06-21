@@ -1,0 +1,17 @@
+{
+  "name": "lupyrestful",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "jed brundidge"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jedbrundidge/lupyrestful",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
